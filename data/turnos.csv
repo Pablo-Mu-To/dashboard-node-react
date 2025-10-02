@@ -1,0 +1,16 @@
+id,voluntario_id,entidad,fecha,actividad,horas
+t1,v1,Asociación A,2025-08-01,Acompañamiento,3
+t2,v2,Asociación A,02/08/2025,Recepción,2
+t3,v1,Asociación A,2025-09-01,Acompañamiento,4
+t4,v3,Asociación A,2025-07-20,Logística,1
+t5,v4,Asociación B,2025/08/05,Formación,2.5
+t6,v5,Asociación B,2025-08-12,Eventos,0
+t7,v6,Asociación B,12/08/2025,Recepción,-2
+t8,v7,Asociación C,2025-08-15,Almacén,1.5
+t9,v8,Asociación C,15/08/2025,Almacén,3
+t10,v9,Asociación C,2025-09-03,Formación,2
+t11,v10,Asociación A,2025-09-05,Acompañamiento,2
+t12,v99,Asociación A,2025-08-10,Eventos,3
+t13,v2,Asociación A,2025-08-20,Recepción,1
+t14,v6,Asociación B,20/08/2025,Acompañamiento,2
+t15,v8,Asociación C,2025/08/25,Eventos,NaN

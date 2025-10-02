@@ -1,0 +1,11 @@
+id,entidad,fecha,donante,importe
+d1,Asociación A,2025-08-10,Fundación X,500
+d2,Asociación A,10/08/2025,Empresa Y,250
+d3,Asociación B,2025/08/15,Particular Anónimo,N/A
+d4,Asociación B,2025-08-20,Empresa Z,0
+d5,Asociación C,21/08/2025,Club Deportivo,100
+d6,Asociación C,2025-08-25,Fundación X,100
+d7,Asociación C,2025-08-25,Fundación X,100
+d8,Asociación A,2025-09-02,Empresa Y,
+d9,Asociación B,2025-09-03,Particular,50.75
+d10,Asociación C,03/09/2025,Ayuntamiento,300

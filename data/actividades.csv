@@ -1,0 +1,9 @@
+id,entidad,nombre,fecha,participantes
+a1,Asociación A,Jornada Hospital,2025-08-12,35
+a2,Asociación A,Formación Voluntarios,13/08/2025,22
+a3,Asociación B,Charla Donaciones,2025/08/18,18
+a4,Asociación B,Evento Benefico,2025-08-30,0
+a5,Asociación C,Reunión Coordinadores,31/08/2025,12
+a6,Asociación C,Taller Acogida,2025-09-05,NaN
+a7,Asociación D,Visita Residencia,2025-09-06,15
+a8,Asociación D,Formación Interna,06/09/2025,
