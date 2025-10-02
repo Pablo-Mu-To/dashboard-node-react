@@ -105,8 +105,8 @@ luntia/
 
 ```bash
 # Clonar el repositorio
-git clone <url-repositorio>
-cd luntia
+git clone https://github.com/Pablo-Mu-To/dashboard-node-react.git
+cd dashboard-node-react
 
 # Instalar dependencias de todo el monorepo
 npm install
